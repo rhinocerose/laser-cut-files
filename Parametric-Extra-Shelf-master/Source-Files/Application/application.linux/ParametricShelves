@@ -1,0 +1,4 @@
+#!/bin/sh
+
+APPDIR=$(dirname "$0")
+java  -Djava.library.path="$APPDIR" -cp "$APPDIR/lib/ParametricShelves.jar:$APPDIR/lib/core.jar:$APPDIR/lib/proxml.jar:$APPDIR/lib/batik-awt-util.jar:$APPDIR/lib/batik-dom.jar:$APPDIR/lib/batik-ext.jar:$APPDIR/lib/batik-svggen.jar:$APPDIR/lib/batik-util.jar:$APPDIR/lib/batik-xml.jar:$APPDIR/lib/old_prosvg.jar:$APPDIR/lib/prosvg.jar" ParametricShelves

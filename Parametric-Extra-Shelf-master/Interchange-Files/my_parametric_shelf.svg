@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<svg height="400mm" xmlns:xlink="http://www.w3.org/1999/xlink" width="400mm" style="fill-opacity:1; color-rendering:auto; color-interpolation:auto; stroke:black; text-rendering:auto; stroke-linecap:square; stroke-miterlimit:10; stroke-opacity:1; shape-rendering:auto; fill:black; stroke-dasharray:none; font-weight:normal; stroke-width:1; font-family:&apos;Dialog&apos;; font-style:normal; stroke-linejoin:miter; font-size:12; stroke-dashoffset:0; image-rendering:auto;" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs id="genericDefs"/>
+  <g>
+    <g style="stroke-linecap:round; fill:white; text-rendering:geometricPrecision; image-rendering:optimizeSpeed; shape-rendering:crispEdges; stroke:white;">
+      <rect height="400" x="0" style="stroke:none;" width="400" y="0"/>
+    </g>
+    <g style="text-rendering:geometricPrecision; shape-rendering:crispEdges; stroke-linecap:round; image-rendering:optimizeSpeed;">
+      <path style="fill:none;" d="M40 0 L120 0 L120 145 L0 145 L0 25 L114 25 L114 6 L40 6 Z"/>
+      <rect height="3" x="0" transform="translate(7.5,139)" style="fill:none;" width="15" y="0"/>
+      <rect height="3" x="0" transform="translate(37.5,139)" style="fill:none;" width="15" y="0"/>
+      <rect height="3" x="0" transform="translate(67.5,139)" style="fill:none;" width="15" y="0"/>
+      <rect height="3" x="0" transform="translate(97.5,139)" style="fill:none;" width="15" y="0"/>
+    </g>
+    <g transform="translate(6,32.125) rotate(90)" style="text-rendering:geometricPrecision; shape-rendering:crispEdges; stroke-linecap:round; image-rendering:optimizeSpeed;">
+      <rect height="3" x="0" style="fill:none;" width="14.25" y="0"/>
+      <rect height="3" x="0" transform="translate(28.5,0)" style="fill:none;" width="14.25" y="0"/>
+      <rect height="3" x="0" transform="translate(57,0)" style="fill:none;" width="14.25" y="0"/>
+      <rect height="3" x="0" transform="translate(85.5,0)" style="fill:none;" width="14.25" y="0"/>
+    </g>
+    <g transform="translate(114,131.5)" style="text-rendering:geometricPrecision; shape-rendering:crispEdges; stroke-linecap:round; image-rendering:optimizeSpeed;">
+      <rect height="15" x="0" style="fill:none;" width="3" y="-15"/>
+    </g>
+    <g transform="translate(240,0) scale(-1,1)" style="text-rendering:geometricPrecision; shape-rendering:crispEdges; stroke-linecap:round; image-rendering:optimizeSpeed;">
+      <path style="fill:none;" d="M40 0 L120 0 L120 145 L0 145 L0 25 L114 25 L114 6 L40 6 Z"/>
+      <rect height="3" x="0" transform="translate(7.5,139)" style="fill:none;" width="15" y="0"/>
+      <rect height="3" x="0" transform="translate(37.5,139)" style="fill:none;" width="15" y="0"/>
+      <rect height="3" x="0" transform="translate(67.5,139)" style="fill:none;" width="15" y="0"/>
+      <rect height="3" x="0" transform="translate(97.5,139)" style="fill:none;" width="15" y="0"/>
+    </g>
+    <g transform="matrix(-1,0,0,1,240,0) translate(6,32.125) rotate(90)" style="text-rendering:geometricPrecision; shape-rendering:crispEdges; stroke-linecap:round; image-rendering:optimizeSpeed;">
+      <rect height="3" x="0" style="fill:none;" width="14.25" y="0"/>
+      <rect height="3" x="0" transform="translate(28.5,0)" style="fill:none;" width="14.25" y="0"/>
+      <rect height="3" x="0" transform="translate(57,0)" style="fill:none;" width="14.25" y="0"/>
+      <rect height="3" x="0" transform="translate(85.5,0)" style="fill:none;" width="14.25" y="0"/>
+    </g>
+    <g transform="matrix(-1,0,0,1,240,0) translate(114,131.5)" style="text-rendering:geometricPrecision; shape-rendering:crispEdges; stroke-linecap:round; image-rendering:optimizeSpeed;">
+      <rect height="15" x="0" style="fill:none;" width="3" y="-15"/>
+    </g>
+    <g transform="translate(0,151)" style="text-rendering:geometricPrecision; shape-rendering:crispEdges; stroke-linecap:round; image-rendering:optimizeSpeed;">
+      <path style="fill:none;" d="M0 0 L7.5 0 L7.5 -3 L4.5 -3 L4.5 -6 L19.5 -6 L19.5 0 L37.5 0 L37.5 -3 L34.5 -3 L34.5 -6 L49.5 -6 L49.5 0 L67.5 0 L67.5 -3 L64.5 -3 L64.5 -6 L79.5 -6 L79.5 0 L97.5 0 L97.5 -3 L94.5 -3 L94.5 -6 L109.5 -6 L109.5 0 L120 0 L120 110 L109.5 110 L109.5 116 L94.5 116 L94.5 113 L97.5 113 L97.5 110 L79.5 110 L79.5 116 L64.5 116 L64.5 113 L67.5 113 L67.5 110 L49.5 110 L49.5 116 L34.5 116 L34.5 113 L37.5 113 L37.5 110 L19.5 110 L19.5 116 L4.5 116 L4.5 113 L7.5 113 L7.5 110 L0 110 Z"/>
+      <rect height="3" x="0" transform="translate(6,5.5) rotate(90)" style="fill:none;" width="11" y="0"/>
+      <rect height="3" x="0" transform="translate(6,5.5) rotate(90) translate(22,0)" style="fill:none;" width="11" y="0"/>
+      <rect height="3" x="0" transform="translate(6,5.5) rotate(90) translate(44,0)" style="fill:none;" width="11" y="0"/>
+      <rect height="3" x="0" transform="translate(6,5.5) rotate(90) translate(66,0)" style="fill:none;" width="11" y="0"/>
+      <rect height="3" x="0" transform="translate(6,5.5) rotate(90) translate(88,0)" style="fill:none;" width="11" y="0"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,151) translate(120,0)" style="text-rendering:geometricPrecision; shape-rendering:crispEdges; stroke-linecap:round; image-rendering:optimizeSpeed;">
+      <path style="fill:none;" d="M0 0 L10.125 0 L10.125 -6 L24.375 -6 L24.375 -3 L21.375 -3 L21.375 0 L38.625 0 L38.625 -6 L52.875 -6 L52.875 -3 L49.875 -3 L49.875 0 L67.125 0 L67.125 -6 L81.375 -6 L81.375 -3 L78.375 -3 L78.375 0 L95.625 0 L95.625 -6 L109.875 -6 L109.875 -3 L106.875 -3 L106.875 0 L114 0 L114 5.5 L117 5.5 L117 16.5 L114 16.5 L114 27.5 L117 27.5 L117 38.5 L114 38.5 L114 49.5 L117 49.5 L117 60.5 L114 60.5 L114 71.5 L117 71.5 L117 82.5 L114 82.5 L114 93.5 L117 93.5 L117 104.5 L114 104.5 L114 110 L106.875 110 L106.875 113 L109.875 113 L109.875 116 L95.625 116 L95.625 110 L78.375 110 L78.375 113 L81.375 113 L81.375 116 L67.125 116 L67.125 110 L49.875 110 L49.875 113 L52.875 113 L52.875 116 L38.625 116 L38.625 110 L21.375 110 L21.375 113 L24.375 113 L24.375 116 L10.125 116 L10.125 110 L0 110 Z"/>
+      <path transform="translate(117,0)" style="fill:none;" d="M0 0 L7.5 0 L7.5 -3 L22.5 -3 L22.5 0 L30 0 L30 110 L22.5 110 L22.5 113 L7.5 113 L7.5 110 L0 110 Z"/>
+    </g>
+  </g>
+</svg>

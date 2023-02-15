@@ -1,0 +1,16 @@
+Parametric Extra Shelves by Paulo Ricca
+www.pauloricca.com
+pauloricca@gmail.com
+
+
+
+1 - Open the appropriate executable for your operative system or open the source in Processing and run the sketch;
+
+
+2 - Open parameters.properties in your text editor. if you're running through Processing, the file is inside the data folder;
+
+
+3 - You can make changes in the parameters file and see the changes in real-time each time you save the file;
+
+
+4 - That's it! When you're happy with the results, just close the application and use the SVG file in the "data" folder to build your new extra shelf.

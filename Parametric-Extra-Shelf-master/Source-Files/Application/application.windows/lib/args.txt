@@ -1,0 +1,3 @@
+ -Xms64m -Xmx600m
+ParametricShelves
+ParametricShelves.jar,core.jar,proxml.jar,batik-awt-util.jar,batik-dom.jar,batik-ext.jar,batik-svggen.jar,batik-util.jar,batik-xml.jar,old_prosvg.jar,prosvg.jar
